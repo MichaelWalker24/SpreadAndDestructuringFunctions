@@ -14,11 +14,11 @@ const jPCharacters={
     ianMalcolm:"Jeff Goldblum"
 };
 
-jPCharacters=(ellieSattler)=>{
+seeCharacters=(ellieSattler)=>{
     console.log(ellieSattler);
 }
 
-jPCharacters(jPCharacters)
+seeCharacters(jPCharacters);
 
 const jurassicParkMovie=[
     {
